@@ -1,0 +1,9 @@
+Building Brazil
+
+See doc/readme-qt.rst for instructions on building Brazil QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Brazil.
+
+See doc/build-*.txt for instructions on building brazild,
+the intended-for-services, no-graphical-interface, reference
+implementation of Brazil.
