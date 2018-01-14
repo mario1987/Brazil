@@ -1,0 +1,4 @@
+Fix
+
+ recipe for target 'obj/rpcrawtransaction.o' failed
+make: *** [obj/rpcrawtransaction.o] Error 1
